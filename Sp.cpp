@@ -22,5 +22,5 @@ int main()
         cout<<"Eq"<<endl;
         cout<<area<<endl;
     }
-    return 0;
+    return 0
 }
